@@ -14,6 +14,12 @@ fn main() {
 }
 ```
 
+```js
+function test() {
+    console.log("look ma’, no spaces");
+}
+```
+
 ## Some article
 
 Some test lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl sed aliquam ultricies, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nisl. Donec euismod, nisl sed aliquam ultricies, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nisl.
