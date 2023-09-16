@@ -6,7 +6,12 @@ on:
   push:
     branches: [ main ]
     paths:
+      - 'public/**'
       - 'src/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'tsconfig.json'
+
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
   
